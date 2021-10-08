@@ -1,4 +1,4 @@
-# 👋  Hi, I’m @AarushSharma
+## 👋  Hi, I’m Aarush
 
 - 🎓 I am in my final year studying Electrical Engineering at Heritage Institute of Technology, Kolkata.
 - 👩‍💻 I’m currently learning **Data Structures and Algorithms** and working on my problem solving. 
