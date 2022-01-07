@@ -2,7 +2,7 @@
 
 - 🎓 I am in my final year studying Electrical Engineering at **Heritage Institute of Technology, Kolkata.**
 - 👩‍💻 I’m currently learning **Data Structures and Algorithms** and working on my **problem solving**. 
-- 💻 I’ve started learning **HTML** and **CSS**.
+- 💻 I’ve started learning **HTML** and **CSS**. Open to take any tips.
 - ✉️ How to reach me : Email me at : aarush.sharma6@gmail.com
 
 ## 👩‍💻Coding Profile
