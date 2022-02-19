@@ -6,8 +6,9 @@
 - ✍️ I write articles. Find them at : https://medium.com/@aarush.sharma6
 - ✉️ How to reach me : Email me at : aarush.sharma6@gmail.com
 
-## 👩‍💻Coding Profile
-- **LeetCode** : https://leetcode.com/aarushsharmaa/
+## 👨‍🎓 Portfolio : 
+
+- https://aarushportfolio.netlify.app/
 
 ## 📲 Social Media 
 - **LinkedIn** : https://www.linkedin.com/in/aarushsharma11/
