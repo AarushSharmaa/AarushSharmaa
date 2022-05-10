@@ -6,6 +6,10 @@
 - ✍️ I write articles. Find them at : https://medium.com/@aarush.sharma6
 - ✉️ How to reach me : Email me at : aarush.sharma6@gmail.com
 
+## ▶️ All about me :
+
+- https://about-aarush.netlify.app/
+
 ## 👨‍🎓 Portfolio : 
 
 - https://aarushportfolio.netlify.app/
