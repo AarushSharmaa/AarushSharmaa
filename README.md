@@ -5,7 +5,7 @@
 - 💻 I’ve recently started learning and building basic projects using **HTML, CSS, Javascript and React** 
 - ✍️ I write articles. Find them at : https://medium.com/@aarush.sharma6
 - ✉️ How to reach me : Email me at : aarush.sharma6@gmail.com
-- 📖 In my free time, I read. Sometimes, I review them on a web app I built. Here it is : https://csb-u60fof.netlify.app/
+- 📚 In my free time, I read. Sometimes, I review them on a web app I built. Here it is : https://csb-u60fof.netlify.app/
 
 ## ▶️ All about me :
 
