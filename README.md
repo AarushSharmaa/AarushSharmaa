@@ -1,6 +1,6 @@
 ## 👋  Hi, I’m Aarush
 
-- 🎓 I am in my final year studying Electrical Engineering at **Heritage Institute of Technology, Kolkata.**
+- 🎓 I completed my graduation in August 2022 from **Heritage Institute of Technology, Kolkata.**
 - 👩‍💻 I’m currently learning **Data Structures and Algorithms** and working on my **problem solving**. 
 - 💻 I’ve recently started learning and building basic projects using **HTML, CSS, Javascript and React** 
 - ✍️ I write articles. Find them at : https://medium.com/@aarush.sharma6
