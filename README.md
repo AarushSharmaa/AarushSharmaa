@@ -1,7 +1,7 @@
 ## 👋  Hi, I’m Aarush
 
 - 💻 Learning to build using: **HTML, CSS, Javascript and React** 
-- ✍️ I write articles. Find them at : https://medium.com/@aarush.sharma6
+- ✍️ I write articles. Find them at: https://medium.com/@aarush.sharma6
 
 
 ## 👨‍🎓 Portfolio : 
