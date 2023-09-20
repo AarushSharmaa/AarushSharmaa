@@ -6,7 +6,7 @@
 
 ## 👨‍🎓 Portfolio : 
 - https://aarushportfolio.netlify.app/
-
+- For quick information, visit https://about-aarush.netlify.app/
 ## 👨🏻‍💻 Coding Profile : 
 - https://leetcode.com/aarushsharmaa/
 
