@@ -1,11 +1,11 @@
 ## 👋  Hi, I’m Aarush
 
-- 💻 Learning to build using: **HTML, CSS, Javascript and React** 
+- 💻 Building AI and Generative AI applications for various industrial use cases
 - ✍️ I write articles. Find them at: https://medium.com/@aarush.sharma6
 
 
 ## 👨‍🎓 Portfolio : 
-- https://aarushportfolio.netlify.app/
+- https://aarushportfolio.netlify.app/ 
 - For quick information, visit https://about-aarush.netlify.app/
 ## 👨🏻‍💻 Coding Profile : 
 - https://leetcode.com/aarushsharmaa/
