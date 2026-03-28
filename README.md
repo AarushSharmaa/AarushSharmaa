@@ -1,17 +1,12 @@
 ## 👋  Hi, I’m Aarush
 
-- 💻 Building AI and Generative AI applications for various industrial use cases
+- 💻 AI Engineer. Helping Fortune 500 customers and Governments get value from AI solutions.
+- 👨🏻‍💻 Portfolio: https://aarushsharmaa.github.io/aarush-sharma/
 - ✍️ I write articles. Find them at: https://medium.com/@aarush.sharma6
+- 📲 Connect with me: https://www.linkedin.com/in/aarushsharma11/
+- 📚 Leetcode: https://leetcode.com/aarushsharmaa/
 
 
-## 👨‍🎓 Portfolio : 
-- https://aarushportfolio.netlify.app/ 
-- For quick information, visit https://about-aarush.netlify.app/
-## 👨🏻‍💻 Coding Profile : 
-- https://leetcode.com/aarushsharmaa/
-
-## 📲 Connect with me : 
-- **LinkedIn** : https://www.linkedin.com/in/aarushsharma11/
 
 <!---
 AarushSharmaa/AarushSharmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
