@@ -1,4 +1,7 @@
 ## 👋  Hi, I’m Aarush
+Currently building production GenAI systems for enterprise clients across government, manufacturing, and financial services.
+
+
 
 - 💻 AI Engineer. 3 years building production GenAI systems for enterprise clients. RAG, multi-agent, LLMs.
 - 👨🏻‍💻 Portfolio: https://aarushsharmaa.github.io/aarush-sharma/
